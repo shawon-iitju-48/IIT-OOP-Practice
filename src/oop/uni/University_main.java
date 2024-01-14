@@ -14,7 +14,7 @@ public class University_main {
 		System.out.println(student1.getAge());
 		
 		Teacher teacher = new Teacher();
-		teacher.setTeacher_name("Anannaya");
+		teacher.setTeacher_name("Anannaya");   //yuuy
 		System.out.println(teacher.getTeacher_name());
 		
 
