@@ -1,4 +1,4 @@
-package opp.package2;
+package oop.package2;
 
 public class ClassP2second {
 	

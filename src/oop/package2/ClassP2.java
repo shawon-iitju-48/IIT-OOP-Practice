@@ -1,4 +1,4 @@
-package opp.package2;
+package oop.package2;
 import oop.package1.*;
 
 public class ClassP2 {
