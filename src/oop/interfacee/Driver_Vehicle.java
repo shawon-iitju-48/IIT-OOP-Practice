@@ -12,7 +12,7 @@ public class Driver_Vehicle {
         System.out.print("Bicycle present state : ");
         bicycle.printStates();
          
-        // creating instance of the bike.
+        
         Bike bike = new Bike();
         bike.changeGear(10);
         bike.speedUp(40);

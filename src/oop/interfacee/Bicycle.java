@@ -12,14 +12,14 @@ public class Bicycle implements Vehicle{
         gear = newGear;
     }
      
-    // to increase speed
+    
     @Override
     public void speedUp(int increment){
          
         speed = speed + increment;
     }
      
-    // to decrease speed
+    
     @Override
     public void applyBrakes(int decrement){
          
