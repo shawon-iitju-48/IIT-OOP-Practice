@@ -11,6 +11,14 @@ public class PolyMorphismMain {
 		System.out.println(helper.Concate("Md. Bokhtiar Nadeem ", "Shawon"));
 		
 		
+		RuntimePolyParent parent= new RuntimePolyParent();
+		parent.print();
+		
+		RuntimePolyChildOne childone=new RuntimePolyChildOne();
+		childone.print();
+		
+		RuntimePolyChildTwo childtwo= new RuntimePolyChildTwo();
+		childtwo.print();
 	}
 
 }
