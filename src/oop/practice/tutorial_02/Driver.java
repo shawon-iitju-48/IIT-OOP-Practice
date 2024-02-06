@@ -8,6 +8,15 @@ public class Driver {
 		circle.setRadius(10);
 		System.out.println(circle.getArea());
 		
+		DerivedClass2 obj1= new DerivedClass2();
+		obj1.print2();
+		
+		ChildClassforInterface obj2= new ChildClassforInterface();
+		obj2.printPI1();
+		obj2.printPI2();
+		obj2.fprintPI1();
+		obj2.fprintPI2();
+		obj2.childprint();
 	}
 
 }
